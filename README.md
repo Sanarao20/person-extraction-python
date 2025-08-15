@@ -14,3 +14,15 @@ This project extracts the person(s) from a given photo using a pretrained DeepLa
 - torchvision
 - OpenCV
 - numpy
+
+## Result
+
+Input Image 
+
+
+![image1](https://github.com/user-attachments/assets/740d951b-9102-4205-bf7a-cdecb9f3df48)
+
+Output Image
+
+
+<img width="310" height="163" alt="person" src="https://github.com/user-attachments/assets/49408389-ffed-4bd8-9cec-7336d51f476f" />
